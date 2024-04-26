@@ -1,0 +1,19 @@
+.button {
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 60px;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #3470ff;
+}
+
+.button:hover,
+.button:focus {
+    color: #0B44CD;
+    ;
+}
